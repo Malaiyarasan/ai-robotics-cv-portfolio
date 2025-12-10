@@ -1,5 +1,5 @@
 # 🤖 AI Engineer – Applied Robotics & Computer Vision  
-### Portfolio by *Malaiyarasan M*
+### Portfolio by *Malaiyarasan M* 
 
 Welcome to my **Applied Robotics & Computer Vision** portfolio.  
 This space highlights my projects that combine:
